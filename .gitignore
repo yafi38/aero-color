@@ -150,4 +150,4 @@ crashlytics.properties
 crashlytics-build.properties
 fabric.properties
 
-offline1/data/
+data/

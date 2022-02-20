@@ -151,6 +151,5 @@ crashlytics-build.properties
 fabric.properties
 
 data/
-001.jpeg
-002.jpeg
-003.jpeg
+*.jpeg
+

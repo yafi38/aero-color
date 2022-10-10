@@ -12,3 +12,9 @@ Here are some of the results of our model:
 |---|---|
 |![bnw](example-images/4.%20bnw.jpg)| ![colorized](example-images/4.%20predict.jpg) |
 |![bnw](example-images/1.%20bnw.jpeg)| ![colorized](example-images/1.%20predict.jpeg) |
+
+## Project developed by
+
+1. [Mashrur Ahmed Yafi](https://github.com/yafi38)
+2. [Mehdi Hassan Akash](https://github.com/mhakash)
+3. [Md Habibul Islam](https://github.com/habibshafin)
